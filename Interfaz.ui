@@ -322,7 +322,7 @@
      <bool>false</bool>
     </property>
     <property name="currentIndex">
-     <number>1</number>
+     <number>0</number>
     </property>
     <widget class="QWidget" name="tab_2">
      <attribute name="title">
@@ -502,7 +502,7 @@
          <x>0</x>
          <y>0</y>
          <width>211</width>
-         <height>499</height>
+         <height>507</height>
         </rect>
        </property>
        <attribute name="label">
@@ -754,7 +754,7 @@
        <rect>
         <x>230</x>
         <y>0</y>
-        <width>401</width>
+        <width>431</width>
         <height>81</height>
        </rect>
       </property>
@@ -766,7 +766,7 @@
        </font>
       </property>
       <property name="text">
-       <string>Registros Alumnos</string>
+       <string>Registros Alumnos2</string>
       </property>
      </widget>
     </widget>
@@ -792,7 +792,7 @@
          <x>0</x>
          <y>0</y>
          <width>211</width>
-         <height>440</height>
+         <height>444</height>
         </rect>
        </property>
        <attribute name="label">
@@ -1125,8 +1125,8 @@
         <rect>
          <x>0</x>
          <y>0</y>
-         <width>231</width>
-         <height>409</height>
+         <width>98</width>
+         <height>28</height>
         </rect>
        </property>
        <attribute name="label">
@@ -1227,7 +1227,7 @@
      <x>0</x>
      <y>0</y>
      <width>1249</width>
-     <height>22</height>
+     <height>21</height>
     </rect>
    </property>
   </widget>
